@@ -19,4 +19,4 @@ Weather application using python and openweathermap Api
 
 
 ## Screenshot
-<div align="center"><img src="https://github.com/kohinoor12/weather-app-python/blob/67f339904c4d154481fb3bcd90aed00ce5f949fb/weather-app.png"></div>
+<div align="center"><img src="https://github.com/kohinoor12/weather-app-python/blob/67f339904c4d154481fb3bcd90aed00ce5f949fb/weather-app.png" width=40% height=40%></div>
