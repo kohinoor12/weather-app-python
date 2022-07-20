@@ -16,3 +16,7 @@ Weather application using python and openweathermap Api
   - Run "python weather.py runserver" to start the server
   - Visit "https://openweathermap.org/" to get the weather api
   - Create account to get your api key and add it to the weather.py file
+
+
+## Screenshot
+<div align="center"><img src="https://user-images.githubusercontent.com/50146617/146649143-0b00e222-7b99-4d98-96c5-7d2040e00560.png"></div>
