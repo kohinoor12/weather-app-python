@@ -16,7 +16,24 @@ Weather application using python and openweathermap Api
   - Run "python weather.py runserver" to start the server
   - Visit "https://openweathermap.org/" to get the weather api
   - Create account to get your api key and add it to the weather.py file
+ 
+ ## 🌟 How to run
+22
+​
+23
+Running the script is really simple! Just open a terminal in the folder where your script is located and run the following command:
+
+```sh
+
+main.py
+27
+```
+28
+​
+29
+## 🤖 Author
+30
+[Kohinoor Bharti](https://github.com/kohinoor12)
 
 
-## Screenshot
-<div align="center"><img src="https://github.com/kohinoor12/weather-app-python/blob/67f339904c4d154481fb3bcd90aed00ce5f949fb/weather-app.png" width=40% height=40%></div>
+
